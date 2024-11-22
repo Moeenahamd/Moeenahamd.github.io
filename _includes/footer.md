@@ -6,7 +6,7 @@
         <a href="https://instagram.com/opensourceartists" target="_blank">Instagram</a>
         <a href="/" target="_blank">Portfolio</a>
       </div>
-      
+      <br />
       This blog is <a href="{{ site.repo.repository_url }}">open source</a>.
       See an error? Go ahead and
       <a href="{{ site.repo.repository_url }}/edit/{{ site.repo.branch }}/{{ page.path }}" title="Help improve {{ page.path }}">propose a change</a>.
