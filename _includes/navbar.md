@@ -5,6 +5,7 @@
   <a href="/resources/">resources</a>
   <a href="/friends/">friends </a>
   <a href="/recipes/">recipes </a>
+  <a href="/assets/files/Presentation-13.pdf/" download>cv</a>
   <a href="/rss/">rss</a>
   <!--<a class="newlink" href="/recipes/">recipes</a> -->
 </div>
