@@ -7,7 +7,7 @@ layout: page
 
 # I'm Lydia Krifka-Dobes.
 
-system_boot = {
+<!-- system_boot = {
    artist: "lydia_krifka-dobes",
    location: "berlin",
    status: "exploring_the_glitch",
@@ -15,7 +15,7 @@ system_boot = {
    collaborators: ["humans", "machines", "systems"]
 }
 
->>> initializing...
+>>> initializing... -->
 
 I'm an artist, sound designer, and technologist based in Berlin. I'm constantly exploring the intersections of identity, sound, and computation, imagining new ways to subvert and reshape reality through avant-garde practices.
 
@@ -71,7 +71,7 @@ Some random facts about me:
 * I dream of turning the Berlin TV Tower into a giant sound installation one day
 * My favorite German word is "Haftpflichtversicherung" (liability insurance)
 
-# Books and Things I Like
+## Books and Things I Like
 
 As a passionate reader and personal development enthusiast, I believe that books have the power to transform lives.  
 On this page, I’ll share some of my favorite books, topics, and people that have had a significant impact on my journey. From personal growth to creative collaborations, here’s a glimpse of what inspires me.  
