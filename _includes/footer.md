@@ -1,6 +1,5 @@
     <footer>
       <hr>
-      
       <div class="navbar">
         <a href="mailto:opensourcereartwork@gmail.com" target="_blank">Email</a>
         <a href="https://github.com/opensourceartists" target="_blank">Github</a>

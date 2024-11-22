@@ -1,5 +1,5 @@
 <div class="navbar">
-  <a href="/">home</a>
+  <a href="/">lydia</a>
   <a href="/blog/">blog</a>
   <a href="/books/">books</a>
   <a href="/resources/">resources</a>

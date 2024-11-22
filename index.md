@@ -7,6 +7,16 @@ layout: page
 
 # I'm Lydia Krifka-Dobes.
 
+// system_boot = {
+   artist: "lydia_krifka-dobes",
+   location: "berlin",
+   status: "exploring_the_glitch",
+   focus: ["sound", "identity", "technology"],
+   collaborators: ["humans", "machines", "systems"]
+}
+
+>>> initializing...
+
 I'm an artist, sound designer, and technologist based in Berlin. I'm constantly exploring the intersections of identity, sound, and computation, imagining new ways to subvert and reshape reality through avant-garde practices.
 
 I write about experimental music, art-technology hybrids, and the poetics of code. *Collaborate with me! I'm always open to new projects and opportunities.*
@@ -61,7 +71,68 @@ Some random facts about me:
 * I dream of turning the Berlin TV Tower into a giant sound installation one day
 * My favorite German word is "Haftpflichtversicherung" (liability insurance)
 
+# Books and Things I Like
 
+As a passionate reader and personal development enthusiast, I believe that books have the power to transform lives.  
+On this page, I’ll share some of my favorite books, topics, and people that have had a significant impact on my journey. From personal growth to creative collaborations, here’s a glimpse of what inspires me.  
+So, grab a cup of tea, find a cozy spot, and explore the world of books, names, and ideas. Happy reading!
+
+
+## Books by Byung-Chul Han
+
+Byung-Chul Han’s works deeply resonate with themes of modern life, digitalization, and societal changes. Here are some of his notable books:
+
+- [Psychopolitics: Neoliberalism and New Technologies of Power](https://amzn.to/3XYZExample)
+- [The Burnout Society](https://amzn.to/3XYZExample)
+- [The Transparency of Society](https://amzn.to/3XYZExample)
+- [The Expulsion of the Other](https://amzn.to/3XYZExample)
+- [Pain: A Cultural History](https://amzn.to/3XYZExample)
+
+
+## People I Like and Collaborate With
+
+### Friends and Collaborators
+- *[Richard + Bjarni](https://example.com)*: Creative collaborators in sound and composition projects.
+- *[Johan Fri](https://example.com)*: Brilliant thinker and regular collaborator.
+- *[Gabriel](https://example.com)*: Trusted friend and colleague.
+- *[Sine Voltag](https://example.com)*: Innovator in electronic arts.
+- *[Oli](https://example.com)*: Visionary artist and collaborator.
+- *[Agnes](https://example.com)*: Festival coordinator and inspiration for spatial sound installations.
+- *[Miriam](https://example.com)*: Partner in exploring artistic narratives.
+- *[Vilborg](https://example.com)*: Thoughtful and insightful creator.
+- *[Otso](https://example.com)*: Partner in experimental sound design.
+- *[Andrea](https://example.com)*: Programmer and collaborator on various digital projects.
+- *[Harri {Burp}](https://example.com)*: Brings humor and sharp insights to every project.
+
+
+## Projects and Interests
+
+### Files and Tasks
+- *[Nextcloud](https://nextcloud.com)*: Private cloud storage for collaborative projects.
+- *Instant messaging and email*: Keeping communication flowing for creative projects.
+- *Booking appointments*: Staying on top of health and wellness ([Gynaecologist](https://example.com), [Endometriosis](https://example.com), and [Dental Care](https://example.com)).
+
+### Technical Boxes
+- *[DLTF TU](https://example.com)*: Research initiative on emerging sound and media technologies.
+- *[CTM Festival](https://ctm-festival.de)*: Experimental music and sound showcase.
+- *[ATI](https://example.com)*: Innovation in audio tech.
+- *[Scratch](https://scratch.mit.edu)*: Creative coding and educational projects.
+- **[Whisper AI](https://openai.com/whisper)**: Cutting-edge AI for voice-to-text applications.
+
+### Inspiration and Themes
+- *Siggraph*: Cutting-edge computer graphics and interactive techniques.
+- *Collaborative exploration*: Ideas with Lily, Pipa Boly Mario, Yuxan, and Duncan Figneki.
+- *Spatial sound*: Exploring ambisonics and real-time manipulation.
+
+
+# Stuff I Look At
+
+- [Analog Computer Museum](https://www.analogmuseum.org)
+- [Dataisnature](https://www.dataisnature.com)
+- [Nullschool Earth](https://earth.nullschool.net)
+- [Picture of the Day (NASA)](https://apod.nasa.gov)
+- [Study of Perceptual Experience](https://example.com)
+- [Whisper AI](https://openai.com/whisper)
 <!-- 
 # I'm Max Bernstein.
 
