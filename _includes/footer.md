@@ -1,4 +1,10 @@
     <footer>
+      <div class="navbar">
+        <a href="mailto:opensourcereartwork@gmail.com" target="_blank">Email</a>
+        <a href="https://github.com/opensourceartists" target="_blank">Github</a>
+        <a href="https://instagram.com/opensourceartists" target="_blank">Instagram</a>
+        <a href="/" target="_blank">Portfolio</a>
+      </div>
       <hr>
       This blog is <a href="{{ site.repo.repository_url }}">open source</a>.
       See an error? Go ahead and
