@@ -135,3 +135,93 @@ Byung-Chul Han’s works deeply resonate with themes of modern life, digitalizat
 - [Picture of the Day (NASA)](https://apod.nasa.gov)
 - [Study of Perceptual Experience](https://example.com)
 - [Whisper AI](https://openai.com/whisper)
+
+## Contact & Communication
+
+### Professional Inquiries
+```python
+contact_methods = {
+    "email": "opensourcereartwork@gmail.com",
+    "github": "opensourceartists",
+    "instagram": "@opensourceartists",
+    "status": "actively_collaborating"
+}
+```
+
+### Project-Specific Channels
+1. **Temperature Research**
+   - Weekly online meetings
+   - Github repository
+   - Documentation wiki
+   
+2. **Language Preservation**
+   - Monthly updates
+   - Shared audio archive
+   - Processing documentation
+
+# Resources & References
+
+## Technical Documentation
+
+### Hardware Setups
+```python
+equipment_list = {
+    "audio": [
+        "RME Fireface UFX+",
+        "Genelec 8341A",
+        "DPA 4006A",
+        "Custom sensor array"
+    ],
+    "computers": [
+        "PinePhone Pro",
+        "Custom Linux workstation",
+        "Raspberry Pi cluster"
+    ],
+    "sensors": [
+        "FLIR One Pro",
+        "Custom Arduino arrays",
+        "BME280 temperature sensors"
+    ]
+}
+```
+
+### Software Tools
+1. **Audio Processing**
+   - Pure Data
+   - Max/MSP
+   - SuperCollider
+   - Custom Python tools
+
+2. **Data Analysis**
+   - Python scripts
+   - R statistical tools
+   - Custom visualization software
+
+## Future Directions
+
+### Planned Experiments
+```python
+future_projects = {
+    "thermal_instrument": {
+        "status": "planning",
+        "timeline": "2025",
+        "collaborators_needed": True
+    },
+    "language_archive_expansion": {
+        "status": "ongoing",
+        "new_languages": ["Sami", "Ainu"],
+        "timeline": "continuous"
+    }
+}
+```
+
+### Research Goals
+1. **Temperature Studies**
+   - Expand participant pool
+   - Develop new measurement tools
+   - Create public installations
+   
+2. **Language Preservation**
+   - Increase language coverage
+   - Improve spatial rendering
+   - Develop interactive interfaces
