@@ -7,7 +7,8 @@ layout: page
 
 # I'm Lydia Krifka-Dobes.
 
-<!-- system_boot = {
+```
+system_boot = {
    artist: "lydia_krifka-dobes",
    location: "berlin",
    status: "exploring_the_glitch",
@@ -15,7 +16,6 @@ layout: page
    collaborators: ["humans", "machines", "systems"]
 }
 
->>> initializing... -->
 
 I'm an artist, sound designer, and technologist based in Berlin. I'm constantly exploring the intersections of identity, sound, and computation, imagining new ways to subvert and reshape reality through avant-garde practices.
 
