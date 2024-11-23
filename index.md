@@ -16,6 +16,8 @@ system_boot = {
    collaborators: ["humans", "machines", "systems"]
 }
 
+```
+
 
 I'm an artist, sound designer, and technologist based in Berlin. I'm constantly exploring the intersections of identity, sound, and computation, imagining new ways to subvert and reshape reality through avant-garde practices.
 
