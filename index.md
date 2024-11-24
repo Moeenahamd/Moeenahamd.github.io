@@ -65,47 +65,55 @@ Goosebumps are more likely to occur with sudden shifts rather than at specific t
 Testing temperature effects with controlled groups in immersive environments.
 
 ### Language Preservation Project
-- Focus:<br>Exploring the sonic variety of human languages through spatial audio.
-- Languages:<br>Includes Abkhazian, Basque, and Bavarian.
-- Framework:<br>Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
-- Technical Stack:
+- #### Focus:  
+  Exploring the sonic variety of human languages through spatial audio.
+- #### Languages:  
+  Includes Abkhazian, Basque, and Bavarian.
+- #### Framework:  
+  Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
+- #### Technical Stack:
   - WhisperAI for transcription.
   - Web-MAUS for phonetic alignment.
-- Progress Tracking:
+- #### Progress Tracking:
   - Progress Slides.
   - Project Repository.
 
 ### Projects
 
 #### 1. Wandering the Piano
-- Event:<br>Venice Biennale 2023.
-- Description:<br>An AI-driven sound installation recorded with one of the largest piano corpora.
-- Collaborators:
+- #### Event:  
+  Venice Biennale 2023.
+- #### Description:  
+  An AI-driven sound installation recorded with one of the largest piano corpora.
+- #### Collaborators:
   - Gerfried Stocker (Ars Electronica).
   - Miller Puckette (Max/MSP).
   - Kyoka DJ (Sonar Festival).
   - Thierry Codes (link unavailable).
 
 #### 2. Sonics of Languages
-- Focus:<br>Endangered language preservation through sonic diversity.
-- Resources:
+- #### Focus:  
+  Endangered language preservation through sonic diversity.
+- #### Resources:
   - Research Papers.
   - Audio Samples.
 
 #### 3. Temperature Matters Research (2024-∞)
-- Focus:<br>Using temperature as an artistic medium.
-- Outputs:
+- #### Focus:  
+  Using temperature as an artistic medium.
+- #### Outputs:
   - Research Paper.
   - Data Visualization.
 
 #### 4. Identity.debug() Series
-- Description:<br>Conceptual art exploring privilege and identity through sound and code.
-- Resources:
+- #### Description:  
+  Conceptual art exploring privilege and identity through sound and code.
+- #### Resources:
   - Exhibition History.
   - Process Documentation.
 
 ### Sensors & Technology
-- CHILLER (NYU Development):
+- #### CHILLER (NYU Development):
   - 20mm x 20mm polymer sensor.
   - Measures skin texture changes during piloerection (goosebumps).
   - Applications in emotional feedback systems.
