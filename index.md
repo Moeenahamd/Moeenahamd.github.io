@@ -42,8 +42,8 @@ You can email me at opensourcereartwork@gmail.com if you want to discuss art, te
 ## Current Research
 
 ### Temperature & Sound Research
-- Sauna Project Development:<n/>Exploring immersive sound experiences tied to temperature shifts.
-- CHILLER Sensor Integration:<n/>Incorporating CHILLER technology to study goosebumps.
+- Sauna Project Development:<br>Exploring immersive sound experiences tied to temperature shifts.
+- CHILLER Sensor Integration:<br>Incorporating CHILLER technology to study goosebumps.
 - Goosebumps Research:
   - Studying the relationship between temperature changes and sensory responses.
   - Combining ASMR sounds, brass registers, and rapid thermal shifts.
@@ -51,58 +51,62 @@ You can email me at opensourcereartwork@gmail.com if you want to discuss art, te
 
 ### Insights from Correspondence
 
-- Subjectivity of Goosebumps: <n/>Responses to sonic or temperature stimuli vary widely between individuals.
-- Rapid Temperature Changes: <n/>Goosebumps are more likely to occur with sudden shifts rather than at specific thresholds.
+- Subjectivity of Goosebumps: <br>Responses to sonic or temperature stimuli vary widely between individuals.
+- Rapid Temperature Changes: <br>Goosebumps are more likely to occur with sudden shifts rather than at specific thresholds.
 - Relevant Works and Practices:
   - The Flicker by Tony Conrad, exploring sensory stimulation.
   - Philippe Rahm, architectural spaces influenced by temperature and light.
   - Sweat Lodge practices of Native Americans, which inspired early SWANS concerts that combined heat and sound.
   - The installations of Olafur Eliasson, incorporating sensory manipulation.
-- Future Experimentation: <n/>Testing temperature effects with controlled groups in immersive environments.
-Language Preservation Project
-Focus:
-Exploring the sonic variety of human languages through spatial audio.
-Languages:
-Includes Abkhazian, Basque, and Bavarian.
-Framework:
-Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
-Technical Stack:
-WhisperAI for transcription.
-Web-MAUS for phonetic alignment.
-Progress Tracking:
-Progress Slides.
-Project Repository.
-Projects
+- Future Experimentation: <br>Testing temperature effects with controlled groups in immersive environments.
 
-1. Wandering the Piano
-Event:
+### Language Preservation Project
+- Focus:
+Exploring the sonic variety of human languages through spatial audio.
+- Languages:
+Includes Abkhazian, Basque, and Bavarian.
+- Framework:
+Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
+- Technical Stack:
+  - WhisperAI for transcription.
+  - Web-MAUS for phonetic alignment.
+- Progress Tracking:
+  - Progress Slides.
+  - Project Repository.
+
+### Projects
+
+#### 1. Wandering the Piano
+- Event:
 Venice Biennale 2023.
-Description:
+- Description:
 An AI-driven sound installation recorded with one of the largest piano corpora.
-Collaborators:
-Gerfried Stocker (Ars Electronica).
-Miller Puckette (Max/MSP).
-Kyoka DJ (Sonar Festival).
-Thierry Codes (link unavailable).
-2. Sonics of Languages
-Focus:
+- Collaborators:
+  - Gerfried Stocker (Ars Electronica).
+  - Miller Puckette (Max/MSP).
+  - Kyoka DJ (Sonar Festival).
+  - Thierry Codes (link unavailable).
+
+#### 2. Sonics of Languages
+- Focus:
 Endangered language preservation through sonic diversity.
-Resources:
-Research Papers.
-Audio Samples.
-3. Temperature Matters Research (2024-∞)
-Focus:
+- Resources:
+  - Research Papers.
+  - Audio Samples.
+
+#### 3. Temperature Matters Research (2024-∞)
+- Focus:
 Using temperature as an artistic medium.
-Outputs:
-Research Paper.
-Data Visualization.
-4. Identity.debug() Series
-Description:
+- Outputs:
+  - Research Paper.
+  - Data Visualization.
+#### 4. Identity.debug() Series
+- Description:
 Conceptual art exploring privilege and identity through sound and code.
-Resources:
-Exhibition History.
-Process Documentation.
-Sensors & Technology
+- Resources:
+  - Exhibition History.
+  - Process Documentation.
+  - Sensors & Technology
 
 CHILLER (NYU Development):
 20mm x 20mm polymer sensor.
