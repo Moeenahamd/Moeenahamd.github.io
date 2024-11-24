@@ -119,8 +119,8 @@ Testing temperature effects with controlled groups in immersive environments.
   - Applications in emotional feedback systems.
 
 ### Inspiration
-- Tony Conrad: The Flicker
-- Philippe Rahm: Convection Spaces
-- Olafur Eliasson: Temperature and Sensory Works
-- SWANS: Heat and Sound in Performances
+- #### Tony Conrad: <span style="font-weight: normal;">The Flicker</span>
+- #### Philippe Rahm: <span style="font-weight: normal;">Convection Spaces</span>
+- #### Olafur Eliasson: <span style="font-weight: normal;">Temperature and Sensory Works</span>
+- #### SWANS: <span style="font-weight: normal;">Heat and Sound in Performances</span>
 
