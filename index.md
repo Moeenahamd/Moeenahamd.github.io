@@ -50,7 +50,6 @@ You can email me at opensourcereartwork@gmail.com if you want to discuss art, te
   - Exploring the potential of wind machines to induce shivers in localized zones (e.g., eyes and sinus areas).
 
 ### Insights from Correspondence
-
 - Subjectivity of Goosebumps: <br>Responses to sonic or temperature stimuli vary widely between individuals.
 - Rapid Temperature Changes: <br>Goosebumps are more likely to occur with sudden shifts rather than at specific thresholds.
 - Relevant Works and Practices:
@@ -61,12 +60,9 @@ You can email me at opensourcereartwork@gmail.com if you want to discuss art, te
 - Future Experimentation: <br>Testing temperature effects with controlled groups in immersive environments.
 
 ### Language Preservation Project
-- Focus:
-Exploring the sonic variety of human languages through spatial audio.
-- Languages:
-Includes Abkhazian, Basque, and Bavarian.
-- Framework:
-Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
+- Focus:<br>Exploring the sonic variety of human languages through spatial audio.
+- Languages:<br>Includes Abkhazian, Basque, and Bavarian.
+- Framework:<br>Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per language.
 - Technical Stack:
   - WhisperAI for transcription.
   - Web-MAUS for phonetic alignment.
@@ -77,10 +73,8 @@ Using Aesop's fable "The Oak and the Reed" with 12 parallel sentences per langua
 ### Projects
 
 #### 1. Wandering the Piano
-- Event:
-Venice Biennale 2023.
-- Description:
-An AI-driven sound installation recorded with one of the largest piano corpora.
+- Event:<br>Venice Biennale 2023.
+- Description:<br>An AI-driven sound installation recorded with one of the largest piano corpora.
 - Collaborators:
   - Gerfried Stocker (Ars Electronica).
   - Miller Puckette (Max/MSP).
@@ -88,34 +82,32 @@ An AI-driven sound installation recorded with one of the largest piano corpora.
   - Thierry Codes (link unavailable).
 
 #### 2. Sonics of Languages
-- Focus:
-Endangered language preservation through sonic diversity.
+- Focus:<br>Endangered language preservation through sonic diversity.
 - Resources:
   - Research Papers.
   - Audio Samples.
 
 #### 3. Temperature Matters Research (2024-∞)
-- Focus:
-Using temperature as an artistic medium.
+- Focus:<br>Using temperature as an artistic medium.
 - Outputs:
   - Research Paper.
   - Data Visualization.
+
 #### 4. Identity.debug() Series
-- Description:
-Conceptual art exploring privilege and identity through sound and code.
+- Description:<br>Conceptual art exploring privilege and identity through sound and code.
 - Resources:
   - Exhibition History.
   - Process Documentation.
-  - Sensors & Technology
 
-CHILLER (NYU Development):
-20mm x 20mm polymer sensor.
-Measures skin texture changes during piloerection (goosebumps).
-Applications in emotional feedback systems.
-Inspiration
+### Sensors & Technology
+- CHILLER (NYU Development):
+  - 20mm x 20mm polymer sensor.
+  - Measures skin texture changes during piloerection (goosebumps).
+  - Applications in emotional feedback systems.
 
-Tony Conrad: The Flicker
-Philippe Rahm: Convection Spaces
-Olafur Eliasson: Temperature and Sensory Works
-SWANS: Heat and Sound in Performances
+### Inspiration
+- Tony Conrad: The Flicker
+- Philippe Rahm: Convection Spaces
+- Olafur Eliasson: Temperature and Sensory Works
+- SWANS: Heat and Sound in Performances
 
