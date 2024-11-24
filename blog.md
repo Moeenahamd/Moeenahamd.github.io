@@ -45,7 +45,7 @@ thesis:
     {% endfor %}
 </ul>
 
-# Blog
+# Writings
 
 <ul>
     {% for post in site.posts %}
