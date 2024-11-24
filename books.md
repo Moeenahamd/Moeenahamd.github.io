@@ -3,217 +3,145 @@ layout: page
 title: Books
 ---
 
-I found this website called [LibraryThing](https://www.librarything.com/home)
-that allows you to catalog, organize, and search your library -- and many
-others. The following button links to my profile.
+# Things I Learned About Starting a Reading Club  
 
-<a href="http://www.librarything.com/profile/tekknolagi">
-  <img src="/assets/img/librarything.png" />
-</a>
+Starting a reading club sounds simple, but creating something meaningful and sustainable takes careful planning. Here are some key ideas and methods to make it work:  
 
-Here is some of my favorite music:
 
-* *Peer Gynt Suite* by Edvard Grieg, conducted by Guillermo Garcia Calvo
-* *Siegfried* by Richard Wagner, conducted by Christian Thielemann
-* *Clarinet Concerto in A (K622)* by W.A. Mozart
-* *Bassoon Concerto in B-flat (K1-191, K6-186e)* by W.A. Mozart
-* *Oboe Concerto in C (K1-314, K6-285d)* by W.A. Mozart
-* *Symphony No. 25 in G minor (K1-183, K6-173dB)* by W.A. Mozart
-* *Die Entführung aus dem Serail (K384)* by W.A. Mozart
-* *Sinfonia Concertante for Violin, Viola, and Orchestra in E-flat (K1-364,
-  K6-320d)* by W.A. Mozart
-* *Don Giovanni (K527)* by W.A. Mozart
-- *Karelia Suite* by Jean Sibelius
-- *Finlandia* by Jean Sibelius
-* *Cello Concerto in B minor* by Antonín Dvořák, conducted by Paavo Järvi
-* *Symphony No. 9 -- New World* by Antonín Dvořák, conducted by Herbert von
-  Karajan
-* *Vltava* by Bedřich Smetana
-* *Má vlast* by Bedřich Smetana
-* *Nabucco* by Giuseppe Verdi, conducted by Giuseppe Sinopoli
-* *Requiem* by Giuseppe Verdi, conducted by Semyon Bychkov
-* *Violin Concerto in D major* by Johannes Brahms, conducted by Carlo Maria
-  Giulini, with soloist Itzhak Perlman
-* *Symphonies 3, 9* by Ludwig van Beethoven, conducted by Josef Krips
-* *La Gazza Ladra* by Gioachino Rossini, conducted by Sir Thomas Beecham
-* *Il barbiere di Siviglia*, by Gioachino Rossini
-* *Tancredi*, by Gioachino Rossini
-* *Semiramide*, by Gioachino Rossini
-* *Guillaume Tell*, by Gioachino Rossini
-* *Háry János* by Zoltán Kodály
-* *Cello Sonata* by Zoltán Kodály
-* *Dances of Galánta* by Zoltán Kodály
-* *Cellokoncert Nr 1 a-mol op.33* by Camille Saint-Saëns, with soloist Sol
-  Gabetta
-* *1. Violinkonzert* by Max Bruch, with soloist Hilary Hahn
-* *Sinfonietta* by Leoš Janáček, with conductor Sir Charles Mackerras
-* *In the Mists* by Leoš Janáček
-* *Ruslan and Lyudmila* by Mikhail Glinka, with director Valery Gergiev
-* *Scheherazade* by Nikolai Rimsky-Korsakov, with director Valery Gergiev
-* *Turandot* by Giacomo Puccini, conducted by Zubin Mehta
-* *Symphony No. 8* by Anton Bruckner
-* *Symphony No. 2* by Gustav Mahler
+## 1. *The Reading Chain*  
 
-I am currently listening to some newer music, too:
+A reading chain is a dynamic way to keep discussions fresh and give everyone a voice.  
 
-* <i style="font-variant: small-caps;">Отава ё</i> *(Otava Yo)*
-* *Dire Straits*
-* *Gipsy Kings*
-* *Mark Knopfler*
-* *ZZ Top*
-* *Gorillaz*
-* *Kanye West*
-* *Jay Z*
-* *Daft Punk*
-* <i style="font-variant: small-caps;">Нейромонах Феофан</i> *(Neuromonakh Feofan)*
-* *Florence + The Machine*
-* *Mumford & Sons*
-* *Punch Brothers*
-* *Muse*
-* *First Aid Kit*
-* *Elvis Crespo*
-* *Kishore Kumar*
-* *Run the Jewels*
-* *A Tribe Called Quest*
-* *Balkan Beat Box*
-* *Arcade Fire*
-* *Paul Simon*
-* *Ladysmith Black Mambazo*
-* *ⵜⵏⵔⵓⵏ (Tinariwen)*
-* *Sona Jobarteh*
-* *Ali Farka Touré*
-* *Pink Martini*
-* *Zimbaria*
-* *Alison Krauss*
-* *The Wailin' Jennys*
-* *Ruth Moody*
-* *Van Morrison*
-* *Yusuf Islam*
-* *Missy Elliott*
+### How It Works:  
+1. The first person suggests something to read.  
+2. The second person commits to reading it and suggests the next material.  
+3. The third person commits to the second material and proposes another.  
+4. The first person reads the last proposed material.  
 
-Here's some awesome other music that I found:
+### Benefits:  
+- Everyone gets to share something meaningful to them.  
+- Fosters accountability and prevents stagnation.  
 
-* [Klunk](https://klunk.bandcamp.com/)
-* [Le Skeleton Band](https://leskeletonband.bandcamp.com/)
+### Challenges:  
+- If someone doesn’t follow through, it can disrupt the flow.  
+- Members may not always resonate with the suggested materials.  
 
-Here are some websites I like:
 
-* [defunkt.io](http://defunkt.io)
-* [henrik.nyh.se](http://henrik.nyh.se)
-* [mattyoho.com](http://mattyoho.com)
-* [paulstamatiou.com](http://paulstamatiou.com)
-* [paperplanes.de](http://paperplanes.de)
-* [klepas.org](http://klepas.org)
-* [jigarpatel.in](http://jigarpatel.in)
-* [blog.jupo.org](http://blog.jupo.org)
-* [bouk.co](http://bouk.co)
-* [jbalogh.me](http://jbalogh.me)
-* [oilshell.org](http://oilshell.org)
-* [danluu.com](http://danluu.com)
-* [eev.ee](http://eev.ee)
-* [willium.com](http://willium.com)
-* [www.chriskrycho.com](http://www.chriskrycho.com)
-* [michaelrbernste.in](http://michaelrbernste.in)
-* [ruudvanasseldonk.com](http://ruudvanasseldonk.com)
-* [nullprogram.com](http://nullprogram.com)
-* [tonsky.me](http://tonsky.me)
-* [klingt.net](http://klingt.net)
-* [sockpuppet.org](http://sockpuppet.org)
-* [blog.lizzie.io](http://blog.lizzie.io)
-* [www.soimort.org](http://www.soimort.org)
-* [www.sigbus.info](http://www.sigbus.info)
-* [c9x.me](http://c9x.me)
-* [willcrichton.net/notes/](http://willcrichton.net/notes/)
-* [research.swtch.com/vgo-intro](http://research.swtch.com/vgo-intro)
-* [argumatronic.com/](http://argumatronic.com/)
-* [mmarfil.com](http://mmarfil.com)
-* [tonsky.me](http://tonsky.me)
-* [dump.mntmn.com/interim-paper/](http://dump.mntmn.com/interim-paper/)
-* [elly.town](http://elly.town)
-* [tinyprojects.dev](http://tinyprojects.dev)
-* [webring.xxiivv.com/](http://webring.xxiivv.com/)
-* [www.noa-s.org](https://www.noa-s.org/)
-* [cynthia.re](https://cynthia.re/)
-* [stewartgrant.ca](http://www.stewartgrant.ca/hummingbirds/)
-* [bitfission.com](http://bitfission.com/)
-* [gossipsweb.net](https://gossipsweb.net/)
-* [mazzo.li](https://mazzo.li/archive.html)
-* [ryanhileman.com](http://ryanhileman.com/)
-* [blitiri.com.ar](https://blitiri.com.ar/)
+## 2. *Decentralized Suggestions*  
 
-Some federated networking software:
+For larger or more flexible groups, a decentralized approach might be better.  
 
-* [lotide](https://hub.sr.ht/~vpzom/lotide/), an ActivityPub-based forum
-* A bit about [finger](https://zserge.com/posts/small-web/) (see also [plan.cat](https://plan.cat/))
+### How It Works:  
+- Members submit suggestions two weeks in advance with a brief summary.  
+- Everyone chooses what they want to read and reacts to posts indicating interest.  
+- Popular materials attract more readers, leading to focused discussions.  
 
-My favorite tea is currently Stash Tea's *Double Bergamot Earl Grey*.
+### Benefits:  
+- People can focus on readings they find interesting.  
+- Reduces pressure to stick to a strict schedule.  
 
-I took some wonderful classes while I was at Tufts. I wholeheartedly recommend
-the following:
+### Challenges:  
+- Discussions might be less cohesive if everyone reads different things.  
 
-* *Internet-scale Distributed Systems* with Noah Mendelsohn, a class that
-  explores how systems are designed and implemented
-* *Functional Programming* with Torsten Grust, a class that dives deep into
-  Haskell's type system and some FP theory
-* *Programming Languages* with Kathleen Fisher, a class about building,
-  proving, and comparing programming languages
-* *Compilers* with Sam Guyer, a class about --- guess what? --- building
-  compilers in ML
-* *Security CTF* with Ming Chow, a half-credit course in which we build a
-  secure device, swap with another school, and then break into theirs
-* *Concurrent Programming* with Mark Sheldon, a class all about concurrency,
-  multithreading, and parallel computation
-* *Machine Structure &amp; Intel Assembly Programming* with Mark Sheldon, in
-  which students spend around 40 hours per week writing obscene quantities of C
 
-I like music featuring the [hammered dulcimer](https://en.wikipedia.org/wiki/Hammered_dulcimer).
-Below is a collection of music (mostly film scores) that includes at least a
-little bit of hammered dulcimer in it:
+## 3. *Accountability Is Key*  
 
-* *Hary Janos* (Zoltán Kodály), where I first heard it
-* Various tracks from The Grand Budapest Hotel (Alexandre Desplat), such as:
-  * *Mr. Moustafa*
-  * *A Prayer for Madame D*
-  * *Daylight Express to Lutz*
-  * ... and many more
-* *Discombobulate* (Hans Zimmer), from Sherlock Holmes -- the Robert Downey Jr
-  version
-* *The Dragon Book* (John Powell), from How to Train Your Dragon
-* Various tracks from The Man From U.N.C.L.E (Daniel Pemberton)
-  * *His Name Is Napoleon Solo*
-  * *Signori Toileto Italiano*
-  * *Laced Drinks*
-  * *Drums of War*
-* *Snow Plane* (Thomas Newman), from Spectre
+For a reading club to thrive:  
+- *Commitment:* If you agree to read something, follow through to maintain trust.  
+- *Clear Expectations:* Be realistic about the material length and complexity.  
+- *Attendance:* Inform the group early if you can’t attend to avoid disrupting plans.  
 
-Thanks to [this website][cimbalom0] for linking some that were harder for me to
-find (and others not included here). Also thanks to [this website][cimbalom1]
-with help identifying tracks in The Man From U.N.C.L.E. As a sidebar, I would
-one day also like to catalogue music that has a sort of horse
-galloping/trotting feel found in *Breaking Out* (U.N.C.L.E) or *Two Mules for
-Sister Sara* (Sherlock Holmes).
 
-[cimbalom0]: https://web.archive.org/web/20200615181712/https://manufacturing.dustystrings.com/blog/hammered-dulcimer-film-scores
-[cimbalom1]: http://web.archive.org/web/20191228224428/https://moviemusicuk.us/2015/08/17/the-man-from-u-n-c-l-e-daniel-pemberton/
+## 4. *Formats to Experiment With*  
 
-This [tweet](https://twitter.com/isosteph/status/1433579813738987535) by
-*@isosteph*:
+Customize your reading club’s format to suit the group’s goals:  
+- *Thematic Focus:* Choose monthly themes (e.g., philosophy, finance, technology).  
+- *Rotating Hosts:* Rotate leadership to bring fresh perspectives.  
+- *Discussion Prompts:* Prepare questions or key points to guide conversations.  
 
-> when a thousand year old tree catches fire and its bark crackles and pops and
-> turns to powder and one day in a strong wind it topples over and its roots
-> wrench the ground up ten feet into the air is that more or less real than
-> when a guy flips a jpeg for 8 eth
 
-Also, [this one](https://twitter.com/isosteph/status/1442679831213260803?s=20):
+## 5. *Practical Tips for Organization*  
 
-> uniquely bad energy to be on a little computer all the time in a really
-> packed city there should only be like 10 giant computers in the world and
-> they should be in various deserts and you should have to journey for many
-> miles on foot to come and operate them
+- Use *group chats* (e.g., Discord, WhatsApp) to coordinate schedules and updates.  
+- Run *polls* to vote on readings.  
+- Maintain *shared documents* (e.g., Google Docs, Notion) for summaries and notes.  
 
-with [response](https://twitter.com/sigfig/status/1442680957060870148?s=20) by
-*@sigfig*:
 
-> i am the keeper of this computer, for years my family has guarded its cores
-> and cables, tell me traveller, what is it you wish to calculate, please dont
-> say hashes
+## 6. *Keep It Balanced*  
+
+Alternate between challenging materials and lighter reads to keep everyone engaged.  
+- *Mix Genres:* Incorporate books, essays, and shorter articles.  
+- *Summaries:* Share summaries for longer or complex texts to help everyone follow along.  
+
+
+## Final Thoughts  
+
+Starting a reading club is about more than books; it’s about creating a community for shared learning and dialogue. Whether using a reading chain, decentralized suggestions, or a traditional structure, the key is clear communication and mutual respect. With these strategies, your reading club can grow into a space of meaningful connection.  
+
+
+# Books and Things I Like  
+
+As a passionate reader and personal development enthusiast, I believe that books have the power to transform lives. Here are some of my favorite books, topics, and authors that inspire me.  
+
+
+## Byung-Chul Han  
+
+Byung-Chul Han’s works deeply resonate with themes of modern life, digitalization, and societal changes.  
+
+- *[Psychopolitics: Neoliberalism and New Technologies of Power](https://www.goodreads.com/book/show/36976755-psychopolitics)*  
+- *[The Burnout Society](https://www.goodreads.com/book/show/18946916-the-burnout-society)*  
+- *[The Transparency Society](https://www.goodreads.com/book/show/23156187-the-transparency-society)*  
+- *[The Expulsion of the Other](https://www.goodreads.com/book/show/35014428-the-expulsion-of-the-other)*  
+- *[Pain: A Cultural History](https://www.goodreads.com/book/show/42818399-pain)*  
+
+
+## Finance  
+
+- *[The Millionaire Next Door](https://www.goodreads.com/book/show/8176.The_Millionaire_Next_Door)*  
+- *[Your Money or Your Life](https://www.goodreads.com/book/show/78427.Your_Money_or_Your_Life)*  
+- *[I Will Teach You to Be Rich](https://www.goodreads.com/book/show/539212.I_Will_Teach_You_to_Be_Rich)*  
+
+
+## Freedom  
+
+- *[How I Found Freedom in an Unfree World](https://www.goodreads.com/book/show/212495.How_I_Found_Freedom_in_an_Unfree_World)*  
+- *[Walden](https://www.goodreads.com/book/show/16902.Walden)*  
+
+
+## Minimalism  
+
+- *[The Power of Less](https://www.goodreads.com/book/show/5236824-the-power-of-less)*  
+- *[Zen To Done](https://www.goodreads.com/book/show/6649224-zen-to-done)*  
+
+
+## Well-being  
+
+- *[The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)*  
+- *[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)*  
+- *[Awareness is Freedom](https://www.goodreads.com/book/show/67639.Awareness)*  
+- *[Falling into Grace](https://www.goodreads.com/book/show/10159880-falling-into-grace)*  
+- *[The End of Your World](https://www.goodreads.com/book/show/31656.The_End_of_Your_World)*  
+- *[The Wise Heart](https://www.goodreads.com/book/show/2651345-the-wise-heart)*  
+- *[Wherever You Go, There You Are](https://www.goodreads.com/book/show/84420.Wherever_You_Go_There_You_Are)*  
+
+
+## Technology and Creativity  
+
+- *[Designing Interactions](https://www.goodreads.com/book/show/124885.Designing_Interactions)* by Bill Moggridge  
+- *[The Second Self](https://www.goodreads.com/book/show/193961.The_Second_Self)* by Sherry Turkle  
+- *[Life on the Screen](https://www.goodreads.com/book/show/132273.Life_on_the_Screen)* by Sherry Turkle  
+- *[The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)* by Don Norman  
+- *[Hooked](https://www.goodreads.com/book/show/22668729-hooked)* by Nir Eyal  
+- *[Being Digital](https://www.goodreads.com/book/show/226568.Being_Digital)* by Nicholas Negroponte  
+
+
+## Richard Feynman  
+
+- *[Surely You’re Joking, Mr. Feynman!](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman)*  
+- *[The Pleasure of Finding Things Out](https://www.goodreads.com/book/show/391345.The_Pleasure_of_Finding_Things_Out)*  
+- *[What Do You Care What Other People Think?](https://www.goodreads.com/book/show/100593.What_Do_You_Care_What_Other_People_Think_)*  
+
+
+## The Plenitude  
+
+- *[The Plenitude: Creativity, Innovation, and Making Stuff](https://mitpress.mit.edu/9780262518284/the-plenitude/)* by Rich Gold, foreword by John Maeda
