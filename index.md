@@ -41,25 +41,28 @@ You can email me at opensourcereartwork@gmail.com if you want to discuss art, te
 
 ## Current Research
 
-Temperature & Sound Research
-Sauna Project Development:
-Exploring immersive sound experiences tied to temperature shifts.
-CHILLER Sensor Integration:
-Incorporating CHILLER technology to study goosebumps.
-Goosebumps Research:
-Studying the relationship between temperature changes and sensory responses.
-Combining ASMR sounds, brass registers, and rapid thermal shifts.
-Exploring the potential of wind machines to induce shivers in localized zones (e.g., eyes and sinus areas).
-Insights from Correspondence
+### Temperature & Sound Research
+- Sauna Project Development:
+  Exploring immersive sound experiences tied to temperature shifts.
+- CHILLER Sensor Integration:
+  Incorporating CHILLER technology to study goosebumps.
+- Goosebumps Research:
+  - Studying the relationship between temperature changes and sensory responses.
+  - Combining ASMR sounds, brass registers, and rapid thermal shifts.
+  - Exploring the potential of wind machines to induce shivers in localized zones (e.g., eyes and sinus areas).
+### Insights from Correspondence
 
-Subjectivity of Goosebumps: Responses to sonic or temperature stimuli vary widely between individuals.
-Rapid Temperature Changes: Goosebumps are more likely to occur with sudden shifts rather than at specific thresholds.
-Relevant Works and Practices:
-The Flicker by Tony Conrad, exploring sensory stimulation.
-Philippe Rahm, architectural spaces influenced by temperature and light.
-Sweat Lodge practices of Native Americans, which inspired early SWANS concerts that combined heat and sound.
-The installations of Olafur Eliasson, incorporating sensory manipulation.
-Future Experimentation: Testing temperature effects with controlled groups in immersive environments.
+- Subjectivity of Goosebumps: 
+  Responses to sonic or temperature stimuli vary widely between individuals.
+- Rapid Temperature Changes: 
+  Goosebumps are more likely to occur with sudden shifts rather than at specific thresholds.
+- Relevant Works and Practices:
+  - The Flicker by Tony Conrad, exploring sensory stimulation.
+  - Philippe Rahm, architectural spaces influenced by temperature and light.
+  - Sweat Lodge practices of Native Americans, which inspired early SWANS concerts that combined heat and sound.
+  - The installations of Olafur Eliasson, incorporating sensory manipulation.
+- Future Experimentation: 
+  Testing temperature effects with controlled groups in immersive environments.
 Language Preservation Project
 Focus:
 Exploring the sonic variety of human languages through spatial audio.
