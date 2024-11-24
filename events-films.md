@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events and Films
+title:
 permalink: /events-films/
 ---
 

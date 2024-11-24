@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Politics
+title:
 ---
 
 # Political Notes and News Items

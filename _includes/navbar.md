@@ -7,6 +7,6 @@
   <a href="/recipes/">recipes </a>
   <a href="/assets/files/Presentation-13.pdf" download>cv</a>
   <a href="/politics/">politics</a>
-  <a href="/events-films/">Events and Films</a>
+  <a href="/events-films/">events and films</a>
   <!--<a class="newlink" href="/recipes/">recipes</a> -->
 </div>
